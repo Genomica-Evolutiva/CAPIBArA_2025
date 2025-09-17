@@ -1,5 +1,4 @@
-![](imgs/capibara_banner.png)
-
+<img src="imgs/capibara_banner.png" width="70">
 Github para el curso CAPIBARA, organizado por CICADA y Facultad de Ciencias. 1era edición (2025)
 
 
