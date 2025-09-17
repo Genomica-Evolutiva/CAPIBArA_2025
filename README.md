@@ -1,4 +1,4 @@
-<center><img src="imgs/capibara_banner.png" width="600"></center>
+<p align="center"><img src="imgs/capibara_banner.png" width="600"></p>
 Github para el curso CAPIBARA, organizado por CICADA y Facultad de Ciencias. 1era edición (2025)
 
 
