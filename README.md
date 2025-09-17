@@ -19,7 +19,7 @@ ___
 
 **Equipo docente**: Mauricio Langleib, Felipe Maresca, Héctor Romero y Juan Valle Lisboa.
 
-**Docentes invitados**: Paola Bermolen, Álvaro Cabana y Federico Lecumberry.
+**Docentes invitados**: Paola Bermolen, Álvaro Cabana, Federico Lecumberry y Bernardo Marenco.
 
 **Contacto**: eletor@fcien.edu.uy, cicada@ei.udelar.edu.uy
 
