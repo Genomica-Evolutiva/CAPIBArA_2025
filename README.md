@@ -1,9 +1,9 @@
 <p align="center"><img src="imgs/capibara_banner.png" width="600"></p>
 Github para el curso CAPIBARA, organizado por CICADA y Facultad de Ciencias. 1era edición (2025)
 
+En la [https://github.com/Genomica-Evolutiva/CAPIBArA_2025/wiki](página Wiki de este repositorio) van a encontrar algunos materiales extra que consideramos útiles sobre programación, matemática y demás cuestiones.
 
-
-# Motivación
+# Motivación del curso
 Varias cajas de Pandora fueron abiertas en las ciencias biológicas mediante la aplicación de nuevas tecnologías: desde el descubrimiento de los microorganismos a la dilucidación de la maquinaria celular y molecular que hace posible la vida, un sinfín de ejemplos son enumerables. El aprendizaje profundo, una disciplina que se encuentra en ebullición en los últimos años, parece ser una de esas cajas cargadas de herramientas que serán moneda corriente para los/as biólogos/as del futuro.
 
 Este curso se plantea introducir y ejercitar el uso de herramientas de aprendizaje profundo para el análisis de problemas biológicos. Para ello, se introducirán conceptos teóricos básicos de la disciplina, los cuales serán aplicados a problemas biológicos concretos obtenidos de la literatura reciente.
