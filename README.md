@@ -1,6 +1,8 @@
 <p align="center"><img src="imgs/capibara_banner.png" width="600"></p>
 Github para el curso CAPIBARA, organizado por CICADA y Facultad de Ciencias. 1era edición (2025)
 
+
+
 En la [página Wiki de este repositorio](https://github.com/Genomica-Evolutiva/CAPIBArA_2025/wiki) van a encontrar algunos materiales extra que consideramos útiles sobre programación, matemática y demás cuestiones.
 
 # Motivación del curso
