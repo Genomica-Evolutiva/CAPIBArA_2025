@@ -1,7 +1,7 @@
 <p align="center"><img src="imgs/capibara_banner.png" width="600"></p>
 Github para el curso CAPIBARA, organizado por CICADA y Facultad de Ciencias. 1era edición (2025)
 
-
+___
 
 En la [página Wiki de este repositorio](https://github.com/Genomica-Evolutiva/CAPIBArA_2025/wiki) van a encontrar algunos materiales extra que consideramos útiles sobre programación, matemática y demás cuestiones.
 
@@ -15,8 +15,7 @@ El curso no pretende ser una introducción formal y exhaustiva sobre el tópico 
 El curso contará con un equipo interdisciplinar, reuniendo a docentes de las áreas matemática e ingeniería junto a docentes del área de biología computacional.
 
 # Información sobre el curso
-Organizado por la Facultad de Ciencias (Udelar) y el Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático (CICADA), se dictará el curso Conceptos de Aprendizaje Profundo para la Investigación en Biología y Áreas Afines (CAPIBArA).
-
+El curso es organizado por la Facultad de Ciencias (Udelar) y el Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático (CICADA)
 ___
 
 **Equipo docente**: Mauricio Langleib, Felipe Maresca, Héctor Romero y Juan Valle Lisboa.
